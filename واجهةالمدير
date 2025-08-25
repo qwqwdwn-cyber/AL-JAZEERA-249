@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Panel - Al Jazeera 249+</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🔑 Admin Panel | لوحة المدير</h1>
+    <p>For internal use only | للاستخدام الداخلي فقط</p>
+  </header>
+
+  <main>
+    <section class="admin-form">
+      <h2>📝 Register Customer | تسجيل عميل</h2>
+      <form>
+        <label for="name">Name | الاسم</label>
+        <input type="text" id="name" name="name" placeholder="Enter customer name">
+
+        <label for="phone">Phone Number | رقم الهاتف</label>
+        <input type="tel" id="phone" name="phone" placeholder="Enter Turkish number">
+
+        <button type="submit">Save | حفظ</button>
+      </form>
+      <p style="margin-top:15px;">
+        (This demo form does not save data. Connect it with Google Sheets or Firebase)  
+        | (هذا النموذج تجريبي لا يحفظ البيانات، يمكن ربطه مع Google Sheets أو Firebase)
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Al Jazeera 249+ Barber Shop</p>
+  </footer>
+</body>
+</html>
