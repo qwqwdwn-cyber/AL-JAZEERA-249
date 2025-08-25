@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Al Jazeera 249+ Barber</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>💈 Al Jazeera 249+</h1>
+    <p>Lefkoşa, Northern Cyprus | لفكوشا - قبرص التركية</p>
+  </header>
+
+  <main>
+    <section class="services">
+      <h2>💇 Services | الخدمات</h2>
+      <ul>
+        <li>Haircut | حلاقة - 250₺</li>
+        <li>Haircut + Beard | حلاقة + دقن - 300₺</li>
+        <li>Scrub | صنفرة - 100₺</li>
+        <li>Hair Dye | صبغة - 100₺</li>
+        <li>Mask | قناع - 50₺</li>
+      </ul>
+    </section>
+
+    <section class="contact">
+      <h2>📞 Contact Us | تواصل معنا</h2>
+      <p>Phone: <a href="tel:+905488246033">+90 548 824 6033</a></p>
+      <p>
+        WhatsApp: 
+        <a href="https://wa.me/905488246033" target="_blank">
+          Chat with us | راسلنا
+        </a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Al Jazeera 249+ Barber Shop</p>
+  </footer>
+</body>
+</html>
